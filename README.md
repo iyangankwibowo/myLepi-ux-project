@@ -6,12 +6,12 @@
 
 <p style="text-align: justify">Untuk mendapatkan insight terkait protitpe aplikasi yang akan dibuat, pengembang melakukan wawancara kepada tiga responden[1] dengan identitas masing-masing responden dapat dilihat pada tabel 1.</p>
 
-| IDENTITAS      | RESPONDEN 1          | RESPONDEN 2      | RESPONDEN 3      |
-| -------------- | -------------------- | ---------------- | ---------------- |
-| Nama           | Irfan Alghani Khalid | Lumongga Febrina | Ririn Shabrina B |
-| Usia           | 19                   | 20               | 21               |
-| Asal Institusi | IPB                  | IPB              | IPB              |
-| *Personality*  | ESJF                 | INTJ             | INTP             |
+| IDENTITAS          | RESPONDEN 1          | RESPONDEN 2      | RESPONDEN 3      |
+| ------------------ | -------------------- | ---------------- | ---------------- |
+| Nama               | Irfan Alghani Khalid | Lumongga Febrina | Ririn Shabrina B |
+| Usia               | 19                   | 20               | 21               |
+| Asal Institusi     | IPB                  | IPB              | IPB              |
+| *Personality Test* | ESJF                 | INTJ             | INTP             |
 
 <p align="center"> Tabel 1 Identitas Responden</p>
 
@@ -106,7 +106,9 @@
 | <div style="text-align: center;"><img src="Documentations/UI/Home – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Categories – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Categories - 2@3x.png" style="width: 100%;"/></div> |
 | <div style="text-align: center;"><img src="Documentations/UI/Categories - 2 – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Keranjang – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Inbox – 1@3x.png" style="width: 100%;"/></div> |
 
-Sekian, terima kasih.
+## DAFTAR PUSTAKA
 
+<p style="text-align: justify">NN / g Nielsen Norman Group UX Research Cheat Sheet [internet]. [diacu 2018 November 6]; 4(4):2. Tersedia dari: https://www.nngroup.com/articles/ux-research-cheat-sheet/</p>
 
+<p style="text-align: justify">NN / g Nielsen Norman Group  Analytics and User Experience [internet]. [diacu diacu 2018 November 6]; 30(1):121–141. Tersedia dari: https://www.nngroup.com/courses/analytics-and-user-experience/</p>
 
