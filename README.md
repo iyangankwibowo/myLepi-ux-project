@@ -53,11 +53,17 @@
 
 ### **Empathy Map**
 
-<div style="text-align: center"><img src="documentations/diagrams/Empathy_Map.png" style="width: 70%"/></div>
+<p align="center">
+  <img width=500 src="documentations/diagrams/Empathy_Map.png" />
+</p>
+
+
 
 ### **User Journey Map**
 
-<div style="text-align: center"><img src="documentations/diagrams/User_Journey.png" style="width: 90%"/></div>
+<p align="center">
+  <img width=700 src="documentations/diagrams/User_Journey.png" />
+</p>
 
 ### **Mobile UX Environment**
 
