@@ -54,7 +54,7 @@
 ### **Empathy Map**
 
 <p align="center">
-  <img width=500 src="documentations/diagrams/Empathy_Map.png" />
+  <img width=500 src="Documentations/Diagrams/Empathy_Map.png" />
 </p>
 
 
@@ -62,7 +62,7 @@
 ### **User Journey Map**
 
 <p align="center">
-  <img width=700 src="documentations/diagrams/User_Journey.png" />
+  <img width=700 src="Documentations/Diagrams/User_Journey.png" />
 </p>
 
 ### **Mobile UX Environment**
@@ -101,10 +101,10 @@
 
 ### **Screenshot Prototipe Aplikasi**
 
-| <div style="text-align: center;"><img src="documentations/UI/Login – 10@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="documentations/UI/Registrasi – 8@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="documentations/UI/Login – 3@3x.png" style="width: 100%;"/></div> |
+| <div style="text-align: center;"><img src="Documentations/UI/Login – 10@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Registrasi – 8@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Login – 3@3x.png" style="width: 100%;"/></div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <div style="text-align: center;"><img src="documentations/UI/Home – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="documentations/UI/Categories – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="documentations/UI/Categories - 2@3x.png" style="width: 100%;"/></div> |
-| <div style="text-align: center;"><img src="documentations/UI/Categories - 2 – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="documentations/UI/Keranjang – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="documentations/UI/Inbox – 1@3x.png" style="width: 100%;"/></div> |
+| <div style="text-align: center;"><img src="Documentations/UI/Home – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Categories – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Categories - 2@3x.png" style="width: 100%;"/></div> |
+| <div style="text-align: center;"><img src="Documentations/UI/Categories - 2 – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Keranjang – 1@3x.png" style="width: 100%;"/></div> | <div style="text-align: center;"><img src="Documentations/UI/Inbox – 1@3x.png" style="width: 100%;"/></div> |
 
 Sekian, terima kasih.
 
