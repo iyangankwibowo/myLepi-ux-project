@@ -1,4 +1,4 @@
-# Pembuatan Prototype Aplikasi E-Commerce Laptop Berbasis Mobile
+# Prototype Aplikasi E-Commerce Laptop Berbasis Mobile
 
 ## **PENDAHULUAN**
 
@@ -53,11 +53,11 @@
 
 ### **Empathy Map**
 
-<div style="text-align: center"><img src="documentations/diagrams/Empathy Map.png" style="width: 70%"/></div>
+<div style="text-align: center"><img src="documentations/diagrams/Empathy_Map.png" style="width: 70%"/></div>
 
 ### **User Journey Map**
 
-<div style="text-align: center"><img src="documentations/diagrams/User Journey.png" style="width: 90%"/></div>
+<div style="text-align: center"><img src="documentations/diagrams/User_Journey.png" style="width: 90%"/></div>
 
 ### **Mobile UX Environment**
 
